@@ -1,0 +1,30 @@
+Características de uma Árvore Hierárquica
+    Nó : Elemento da árvor, pode armazenar dados
+    Raiz : Nó principal, origem
+    Pai e Filho : Pasta contendo e pasta contida
+    Irmão : Fikhos do mesmo pai, como se fossem duas pastas no mesmo arquivo
+    Nível de um nó : Posição hieráquica em relação a raiz
+    Altura ou profundidade : Grau máximo dos nós
+    Folha ou nó terminal : nó que não tem filhos
+    Nó interno : Não são nós folha
+    Grau de um nó : Indicado pelo número de seus filhos
+    Subárvore : Formada a partir de nó da árvore principal, considerada um ramo
+
+    ( A ---------------------- Raiz / Origem -- Nivel : 0 -- Profundidade: 0 -- Nó interno -- Grau: 3
+        ( B ------------------ Nó ------------- Nivel : 1 -- Profundidade: 1 -- Nó interno -- Grau: 2 -- Subárvore à esquerda de A
+            ( E -------------- Pai ------------ Nivel : 2 -- Profundidade: 2 -- Nó interno -- Grau: 1
+                ( i ) -------- \ Filhos ------- Nivel : 3 -- Profundidade: 3 -- Nó folha ---- Grau: ?
+                ( J ) -------- / Imãos -------- Nivel : 3 -- Profundidade: 3 -- Nó folha ---- Grau: ?
+            )
+            ( F
+                ( K ) -------- Nó folha ( Não tem descendentes )
+            )
+        )
+        ( C ) ---------------- Nó ------------- Nivel : 1 -- Profundidade: 1 -- Nó folha ---- Grau: 0
+        ( D ------------------ Nó ------------- Nivel : 1 -- Profundidade: 1 -- Nó interno -- Grau: 0 -- Subárvore à direita de A
+            ( G
+                ( L )
+            )
+            ( H )
+        )
+    )

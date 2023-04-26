@@ -1,0 +1,25 @@
+Árvore Binária
+    Posição dos nós
+    Maiores à direita
+    Menores à esquerda
+
+
+
+                                                      1(
+                                                         (Objeto())
+                                               --------- (noEsq)
+                                              |          (noDir) ---------
+                                              \/      1)                 \/
+
+                              2(                              |                  3(
+                                  (Objeto())                  |                      (Objeto())
+                     -------------(noEsq)                     |          ------------(noEsq)
+                    |             (noDir) ------              |         |            (noDir) --------
+                    \/        2)               \/             |         \/       3)                 \/
+
+            4(                    |       5(                  |    6(                    |       7(                  |
+               (Objeto())         |            (Objeto())     |       (Objeto())         |            (Objeto())     |
+     --------- (noEsq)            |  --------- (noEsq)        |  ---- (noEsq)            |  --------- (noEsq)        |
+    |          (noDir) -------    | |          (noDir) -----  | |     (noDir) -------    | |          (noDir) -----  |
+    \/      4)               \/   | \/    5)               \/ | \/ 6)               \/   | \/    7)               \/ |
+    null                    null    null                   null  null               null    null                   null(folha)
