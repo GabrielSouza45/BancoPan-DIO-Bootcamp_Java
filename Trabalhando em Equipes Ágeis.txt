@@ -1,0 +1,131 @@
+Trabalhando em Equipes Ágeis
+
+Agilidade X Rapidez
+	Mais rápido: Trem bala
+	Mais ágil: Guepardo 
+	
+	Ser agil nao é necessariamente ser mais rápido, ser ágil é ter facilidade no aprendizado e facilidade na aplicação e principalmente *ADAPTAÇÃO*
+
+	Time veloz: 
+	Muita entrega, muito conflito, muito estresse, metas loucas sem pé nem cabeça. 
+	Time com comunicação ruim
+
+	Time ágil: 
+	Eficiente, bater metas melhores estruturadas, mais palpáveis. 
+	Comunicação acertiva, gerencia no fluxo de tarefas. 
+	Validar se o caminho está correto
+	Tem em mente o processo, as entregas 
+
+//=========================================//
+Os Valores do Manifesto Ágil
+	Documento criado em fev de 2001, 17 profissionais que já aplicavam métodos ágeis com Xp, DSDM Scrum etc, se reuniram.
+	Embora eles utilizasem abordagens e metodos diferentes, eles compartilhavam dos mesmos fundamentos: 
+
+	1 Individuos e interações: Valoriza mais as interações entre as pessoas do que os processos e ferramentas
+	2 Software em funcionamento : Valoriza mais voce entregar a coisa funcionando da maneira fiel ao que o cliente pediu e o desenvolvimento do que ficar fazendo as documentações, reuniões
+	3 Colaboração com o cliente: Valoriza olhar para o cliente como um colaborador inves de um contratante de serviços
+	4 Responder a mudanças: Valoriza ser ágil, adaptável, estar preparado para se flexionar, mais do que seguir planos 
+
+
+//=========================================//
+Os 12 principios do Manifesto
+	1 Satisfazer o cliente através da entrega contínua de software com valor agregado
+	2 Aceitar mudanças de projeot, mesmo no fim do desenvolvimento
+	3 Entregar frequentemente softwares funcionais, de poucas semanas a poucos meses
+	4 Trabalho colaborativo entre pessoas de negócios e devs
+	5 Construir projetos em torno de indivídups motivados, dar o ambiente e o suporte necessarioe confiar neles para a realização do projeto
+	6 Conversa face a face, para melhor transmissão de informações entre uma equipe
+	7 Medida primária de progresso: Software funcional
+	8 Time todo deve ser capaz de manter um ritmo constante indefinidamente
+	9 Antenção contínua a excelência técnica e bom design aumenta a agilidade
+	10  Simplicidade: "A arte de maximizar a quantidade de trabalho que não precisou ser feito.”
+	11 Times auto-organizaveis geram melhores arquiteturas, requisitos e designs
+	12 Em intervalos regulares, a equipe deve refletir refinar e ajustar a eficacia e ajustar seu comportamento de acordo
+
+//=========================================//
+Caracteristicas de um time agil
+	Alinhado com o cliente e stakeholders (não faz parte do seu time, externos)
+	Auto-organizado e Responsavel
+	Multidisciplinar
+	Entrega valor continuamente
+	Está sempre aprendendo
+	Melhoria contínua
+	Possui métricas e matas claras
+	Unido
+
+//=========================================//
+Agilidade na tecnologia
+	Inovação
+	VUCA
+	Volátil
+	Uincerto (uncertainty)
+	Complexo
+	Ambíguo
+
+//=========================================//
+Processo X Projeto
+	Processo:
+	É recorrente e contínuo
+	É replicável
+	Geralmente é repetitivo e realizado regularmente
+
+	Projeto: 
+	É um esforço temporário para atingdir um objetivo
+	O resultado é exclusivo
+	Tem início e fim bem definidos
+
+//=========================================//
+Gerenciamento de Projetos
+Modelo Ágil X Tradicional 
+	Tradicional (Castacata)
+	Análise -> Projeto (design) -> Implementação -> Teste -> Entrega/ Manutenção
+	Depende que a etapa anterior esteja completa para prosseguir 
+	O cliente só ve o projeto na etapa final
+	
+	Ágil: Scrum
+	Ciclos (Sprints), cada ciclo terá uma entrega para o cliente
+	O cliente faz parte do projeto e vê o progresso assim como faz modificações sem ter que esperar o projeto final
+	
+//=========================================//
+Gestão Ágil
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

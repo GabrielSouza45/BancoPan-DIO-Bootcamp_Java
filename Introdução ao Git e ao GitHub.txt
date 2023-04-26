@@ -1,0 +1,79 @@
+Introdução ao Git e ao GitHub
+Comandos básicos para um bom desempenho no terminal
+
+	dir : Mostra todas as pastas dentro da pasta atual
+	cd 'diretorio' : entra no diretorio escolhido
+	cd / : entra no C:
+	cd .. : volta um diretorio
+	cls : limpa o cmd (clear)
+	mkdir : cria um diretorio
+	echo 'texto' : exibe o texto no cmd 
+	echo 'texto' > 'arquivo.extensao' : cria um arquivo
+	del 'nomePasta' : deleta os arquivos dentro de uma pasta 
+	rmdir 'nomePasta' : deleta a pasta com os arquivos
+	
+	
+Tópicos fundamentais para entender o funcionamento do Git
+
+	openssl sha1 'arquivo.ext' : cria um código codificado de 40 digitos para o arquivo
+
+	
+Objetos internos do Git
+	
+	Blobs : arquivos e seus sha1
+	Trees	: conjunto de blobs
+	Commits : conjunto de trees
+
+
+Chave SSH e Token
+
+	Chave SSH : forma segura de estabelecer conexão entre duas maquinas
+	Gerar chave publica e privada:
+	ssh-keygen -t ed25519 -C 'email'  (git bash)
+			   '^- tipo de criptografia'
+	cat 'chave gerada' : mostra o conteudo do arquivo (a chave)
+
+	No github > confg > ssh keys / add new
+	title : nome da maquina
+	key : chave gerada (publica)
+
+	No gitbash
+	eval $(ssh-agent -s) : inicia o agente que ira gerenciar as chaves
+	ssh-add 'chave privada'
+	
+
+Iniciando o Git e criando um commit
+
+	ls : mostra os arquivos e pastas dentro do diretorio
+	ls -a : mostra os arquivos e pastas ocultos no diretorio
+	git init : inicia o git dentro da pasta e inicializa o repositório na pasta
+	git clone : clona um projeto do github
+	git add * : prepara o arquivo para o commit
+	git commit -m " 'text' " : gera um titulo para o versionamento 
+	git config --global user.email " 'email' " : configura o login do git 
+	git config --global user.name 'nome' : configura o login do git 
+	
+	
+Passo a passo no ciclo de vida
+	
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	

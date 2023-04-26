@@ -1,0 +1,10 @@
+List -----------> Interface
+ArrayList ------> Classe que implementa a interface List
+
+List lista = new ArrayList();  -----------> Melhor forma **
+ArrayList lista = new ArrayList(); -------> Não recomendado, programar voltado sempre a interface não a implementação
+List<T> lista = new ArrayList<>(); -------> List com Generics **
+List<T> lista = new ArrayList<T>(); ------> Não recomendado ( Diamond Operator )
+
+List<Double> double = Arrays.asList('valores'); ------> Cria uma lista com valores imutáveis, .add e .remove = erro em execução
+List<Double> double = List.Of('valores'); ------> Cria uma lista com valores imutáveis, .add e .remove = erro em compilação ( mostra o erro no código)
