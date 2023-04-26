@@ -1,4 +1,4 @@
-package ListasCirculares;
+package com.ListasCirculares;
 
 public class Main {
     public static void main(String[] args) {
