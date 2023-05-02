@@ -40,7 +40,7 @@ public class ArvoreBinaria<T extends  Comparable<T>> {
     }
 
     public void exibirPosOrdem(){
-        System.out.println("\n Exibindo InOrdem");
+        System.out.println("\n Exibindo PosOrdem");
         exibirPosOrdem(this.raiz);
     }
 
@@ -54,7 +54,7 @@ public class ArvoreBinaria<T extends  Comparable<T>> {
     }
 
     public void exibirPreOrdem(){
-        System.out.println("\n Exibindo InOrdem");
+        System.out.println("\n Exibindo PreOrdem");
         exibirPreOrdem(this.raiz);
     }
 
